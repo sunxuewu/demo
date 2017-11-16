@@ -1,0 +1,14 @@
+{
+    "name": "sunxuewu/demo",
+    "description": "composer learning",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "sunxuewu",
+            "email": "562719470@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
